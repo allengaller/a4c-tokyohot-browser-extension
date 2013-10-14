@@ -7,3 +7,5 @@ A sound effect extension for Chrome and Firefox, Safari.
 =================================
 
 上班时间请酌情使用.
+
+基情无限
