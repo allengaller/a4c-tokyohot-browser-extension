@@ -1,4 +1,4 @@
-THe Tokyohot Extension
+The Tokyohot Extension
 ======================
 
 A sound effect extension for Chrome and Firefox, Safari.
